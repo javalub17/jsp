@@ -5,13 +5,13 @@
          version="3.1">
 
 
-    <servlet>
-        <servlet-name>HelloWorldServlet</servlet-name>
-        <servlet-class>com.sda.servlet.HelloWorldServlet</servlet-class>
-    </servlet>
-    <servlet-mapping>
-        <servlet-name>HelloWorldServlet</servlet-name>
-        <url-pattern>/</url-pattern>
-    </servlet-mapping>
+<!--    <servlet>-->
+<!--        <servlet-name>HelloWorldServlet</servlet-name>-->
+<!--        <servlet-class>com.sda.servlet.HelloWorldServlet</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>HelloWorldServlet</servlet-name>-->
+<!--        <url-pattern>/</url-pattern>-->
+<!--    </servlet-mapping>-->
 
 </web-app>
