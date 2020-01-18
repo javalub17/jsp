@@ -1,4 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page import="javax.servlet.jsp.JspWriter" %>
 <html>
 <head>
     <title>Obsługa Cookie</title>
@@ -16,7 +17,7 @@
         }
     } else {
         out.print("<h2>No cookies found</h2>");
-    }
+    };
 %>
 </body>
 </html>
